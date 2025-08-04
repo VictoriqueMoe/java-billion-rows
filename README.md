@@ -98,9 +98,6 @@ Processing Speed: 194.69 MB/s
 7. Merge results from all worker threads
 8. Convert to string keys and sort alphabetically for output
 
-## Building and Running
-
-
 ## Performance Notes
 
 Typical performance on modern hardware:
